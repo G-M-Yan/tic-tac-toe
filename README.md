@@ -6,7 +6,7 @@ This project is an implementation of the classic game Tic Tac Toe using HTML, CS
 🔗 [Play Tic Tac Toe](https://g-m-yan.github.io/tic-tac-toe/)
 
 #### Screenshot
-![Tic Tac Toe Screenshot](https://github.com/G-M-Yan/dashboard/blob/main/game-screenshot.png)
+![Tic Tac Toe Screenshot](https://github.com/G-M-Yan/tic-tac-toe/blob/main/game-screenshot.png)
 
 ## Technologies Used
 - HTML
